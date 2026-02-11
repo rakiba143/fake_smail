@@ -2,50 +2,57 @@
   {
     "country": "Ivory Coast",
     "iso": "CI",
-    "prefix": "22507",
-    "digits": 8,
-    "sms_template": "<#> {otp} est votre code"
-  },
-  {
-    "country": "United States",
-    "iso": "US",
-    "prefix": "1518",
-    "digits": 7,
-    "sms_template": "<#> {otp} is your Facebook code {hash}"
-  },
-  {
-    "country": "Indonesia",
-    "iso": "ID",
-    "prefix": "628",
-    "digits": 10,
-    "sms_template": "<#> {otp} adalah kode Facebook Anda {hash}"
+    "num": "22507",
+    "digits_add": 8,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} est votre code Facebook 04iR7YhDrwk"
   },
   {
     "country": "Bangladesh",
     "iso": "BD",
-    "prefix": "88017",
-    "digits": 8,
-    "sms_template": "<#> {otp} is your Facebook code {hash}"
+    "num": "88017",
+    "digits_add": 8,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} is your Facebook code 12aB3CdEfGh"
+  },
+  {
+    "country": "Indonesia",
+    "iso": "ID",
+    "num": "628",
+    "digits_add": 10,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} adalah kode Facebook Anda XyZ12345"
+  },
+  {
+    "country": "United States",
+    "iso": "US",
+    "num": "1518",
+    "digits_add": 7,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} is your Facebook code 99XsKjLmN"
   },
   {
     "country": "India",
     "iso": "IN",
-    "prefix": "9180",
-    "digits": 8,
-    "sms_template": "<#> {otp} is your Facebook code {hash}"
+    "num": "9180",
+    "digits_add": 8,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} is your Facebook code P2WfjXuAv5s"
   },
   {
     "country": "Vietnam",
     "iso": "VN",
-    "prefix": "84",
-    "digits": 9,
-    "sms_template": "<#> {otp} la ma xac nhan Facebook cua ban {hash}"
+    "num": "84",
+    "digits_add": 9,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} la ma xac nhan Facebook cua ban QwErTy78"
   },
   {
-    "country": "Nigeria",
-    "iso": "NG",
-    "prefix": "234",
-    "digits": 8,
-    "sms_template": "<#> {otp} is your Facebook code {hash}"
+    "country": "Pakistan",
+    "iso": "PK",
+    "num": "923",
+    "digits_add": 9,
+    "otp_digits": 6,
+    "sms_template": "<#> {otp} is your Facebook code 77HkLkMn"
   }
 ]
