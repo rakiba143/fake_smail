@@ -12,7 +12,7 @@
     "iso": "SL",
     "num": "232747",
     "digits_add": 5,
-    "otp_digits": 6,
+    "otp_digits": 5,
     "sms_template": "<#> {otp} is your Facebook code jMNXnpjFPrL"
   }
 ]
