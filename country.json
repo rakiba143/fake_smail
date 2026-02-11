@@ -1,1 +1,51 @@
-
+[
+  {
+    "country": "Ivory Coast",
+    "iso": "CI",
+    "prefix": "22507",
+    "digits": 8,
+    "sms_template": "<#> {otp} est votre code"
+  },
+  {
+    "country": "United States",
+    "iso": "US",
+    "prefix": "1518",
+    "digits": 7,
+    "sms_template": "<#> {otp} is your Facebook code {hash}"
+  },
+  {
+    "country": "Indonesia",
+    "iso": "ID",
+    "prefix": "628",
+    "digits": 10,
+    "sms_template": "<#> {otp} adalah kode Facebook Anda {hash}"
+  },
+  {
+    "country": "Bangladesh",
+    "iso": "BD",
+    "prefix": "88017",
+    "digits": 8,
+    "sms_template": "<#> {otp} is your Facebook code {hash}"
+  },
+  {
+    "country": "India",
+    "iso": "IN",
+    "prefix": "9180",
+    "digits": 8,
+    "sms_template": "<#> {otp} is your Facebook code {hash}"
+  },
+  {
+    "country": "Vietnam",
+    "iso": "VN",
+    "prefix": "84",
+    "digits": 9,
+    "sms_template": "<#> {otp} la ma xac nhan Facebook cua ban {hash}"
+  },
+  {
+    "country": "Nigeria",
+    "iso": "NG",
+    "prefix": "234",
+    "digits": 8,
+    "sms_template": "<#> {otp} is your Facebook code {hash}"
+  }
+]
