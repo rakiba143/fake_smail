@@ -4,55 +4,15 @@
     "iso": "CI",
     "num": "22507",
     "digits_add": 8,
-    "otp_digits": 6,
+    "otp_digits": 8,
     "sms_template": "<#> {otp} est votre code Facebook 04iR7YhDrwk"
   },
   {
-    "country": "Bangladesh",
-    "iso": "BD",
-    "num": "88017",
-    "digits_add": 8,
+    "country": "Sierra Leone",
+    "iso": "SL",
+    "num": "232747",
+    "digits_add": 5,
     "otp_digits": 6,
     "sms_template": "<#> {otp} is your Facebook code 12aB3CdEfGh"
-  },
-  {
-    "country": "Indonesia",
-    "iso": "ID",
-    "num": "628",
-    "digits_add": 10,
-    "otp_digits": 6,
-    "sms_template": "<#> {otp} adalah kode Facebook Anda XyZ12345"
-  },
-  {
-    "country": "United States",
-    "iso": "US",
-    "num": "1518",
-    "digits_add": 7,
-    "otp_digits": 6,
-    "sms_template": "<#> {otp} is your Facebook code 99XsKjLmN"
-  },
-  {
-    "country": "India",
-    "iso": "IN",
-    "num": "9180",
-    "digits_add": 8,
-    "otp_digits": 6,
-    "sms_template": "<#> {otp} is your Facebook code P2WfjXuAv5s"
-  },
-  {
-    "country": "Vietnam",
-    "iso": "VN",
-    "num": "84",
-    "digits_add": 9,
-    "otp_digits": 6,
-    "sms_template": "<#> {otp} la ma xac nhan Facebook cua ban QwErTy78"
-  },
-  {
-    "country": "Pakistan",
-    "iso": "PK",
-    "num": "923",
-    "digits_add": 9,
-    "otp_digits": 6,
-    "sms_template": "<#> {otp} is your Facebook code 77HkLkMn"
   }
 ]
