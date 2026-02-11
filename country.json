@@ -2,17 +2,17 @@
   {
     "country": "Ivory Coast",
     "iso": "CI",
-    "num": "22507",
+    "num": ["22507", "22505", "22501", "22509"],
     "digits_add": 8,
-    "otp_digits": 8,
+    "otp_digits": [6, 8],
     "sms_template": "<#> {otp} est votre code Facebook 04iR7YhDrwk"
   },
   {
     "country": "Sierra Leone",
     "iso": "SL",
-    "num": "232747",
-    "digits_add": 5,
-    "otp_digits": 5,
+    "num": ["23276", "23278", "23230", "23299", "23231"],
+    "digits_add": 6,
+    "otp_digits": [5, 6],
     "sms_template": "<#> {otp} is your Facebook code jMNXnpjFPrL"
   }
 ]
